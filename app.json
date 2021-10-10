@@ -1,11 +1,11 @@
 {
-    "name": "Lusifar bot powerd by kaviyaah",
-    "description": "Lusifar bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/qsGX8NM/2264186-1.jpg",
+    "name": "Julie-Mwol",
+    "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "logo": "https://i.imgur.com/ADXSU8e.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/kavishkaya/Lusifarbot",
-    "website":   "under maintenance",
-    "success_url": "under maintenance",
+    "repository": "https://github.com/farhan-dqz/Julie-Mwol",
+    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
+    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
     "env": {
         "LUSIFAR_SESSION": {
